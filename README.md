@@ -12,7 +12,7 @@ A web application where a user types in a company's website domain and an AI age
 ![Dashboard Preview](./docs/preview.gif)
 > *Live scan in progress — subdomains streaming in real time*
 
-[🚀 Live Demo](#) | [📖 Docs](#) | [🐛 Report Bug](#)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/752776ad-f6f0-4d59-a3d8-9da2c6232582" />
 
 ---
 
@@ -25,6 +25,9 @@ This is why companies pay millions of dollars each year for **attack surface man
 Traditionally, this kind of security scanning required expensive enterprise tools or manual expertise. This project demonstrates how **AI agents** can automate the entire reconnaissance process — from discovering subdomains to analyzing each one for vulnerabilities — using large language models that can reason about security findings in real-time. This project demonstrates that capability in a working, open-source tool.
 
 ---
+
+<img width="1607" height="921" alt="image" src="https://github.com/user-attachments/assets/184033ad-5ee1-4856-915a-203c455836db" />
+
 
 ## Features
 
