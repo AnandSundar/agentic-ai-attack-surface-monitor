@@ -1,0 +1,20 @@
+# Placeholder for Dashboard Preview GIF
+
+This file is a placeholder for the dashboard preview GIF.
+
+## To replace:
+1. Take a screenshot or recording of the application
+2. Save as an animated GIF (recommended 1200x800px)
+3. Name it `preview.gif` and place it in this `docs/` folder
+
+## Recommended content:
+- A live scan in progress showing:
+  - Domain input form
+  - Real-time activity feed with events
+  - Interactive attack graph building
+  - Findings appearing in the table
+
+The README.md references this file at:
+```markdown
+![Dashboard Preview](./docs/preview.gif)
+```

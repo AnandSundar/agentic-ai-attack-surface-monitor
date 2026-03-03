@@ -1,0 +1,32 @@
+{
+    "name": "attack-surface-monitor-frontend",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@nivo/network": "^0.99.0",
+        "@tanstack/react-table": "^8.13.2",
+        "clsx": "^2.1.0",
+        "framer-motion": "^11.0.8",
+        "next": "14.1.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "tailwind-merge": "^2.2.1"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.19",
+        "@types/react": "^18.2.56",
+        "@types/react-dom": "^18.2.19",
+        "autoprefixer": "^10.4.17",
+        "eslint": "^8.56.0",
+        "eslint-config-next": "14.1.0",
+        "postcss": "^8.4.35",
+        "tailwindcss": "^3.4.1",
+        "typescript": "^5.3.3"
+    }
+}
