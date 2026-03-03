@@ -559,10 +559,10 @@ MIT License — see the [LICENSE](./LICENSE) file for details.
 
 ## Author
 
-[Your Name]()
+[Anand Sundar]()
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-8458B3?style=flat&logo=vercel)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/anandsundar96)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github)](https://github.com/anandsundar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-8458B3?style=flat&logo=vercel)](https://github.com/anandsundar)
 
 Built with Go, Next.js, and OpenAI — to demonstrate what modern AI-powered security tooling looks like in practice.
